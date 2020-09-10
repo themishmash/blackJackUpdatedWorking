@@ -1,0 +1,12 @@
+/Users/michelle.wong/FMA/BlackJackUpdatedWorking/BlackJackUpdatedWorking/bin/Debug/netcoreapp3.1/BlackJackUpdatedWorking.deps.json
+/Users/michelle.wong/FMA/BlackJackUpdatedWorking/BlackJackUpdatedWorking/bin/Debug/netcoreapp3.1/BlackJackUpdatedWorking.runtimeconfig.json
+/Users/michelle.wong/FMA/BlackJackUpdatedWorking/BlackJackUpdatedWorking/bin/Debug/netcoreapp3.1/BlackJackUpdatedWorking.runtimeconfig.dev.json
+/Users/michelle.wong/FMA/BlackJackUpdatedWorking/BlackJackUpdatedWorking/bin/Debug/netcoreapp3.1/BlackJackUpdatedWorking.dll
+/Users/michelle.wong/FMA/BlackJackUpdatedWorking/BlackJackUpdatedWorking/bin/Debug/netcoreapp3.1/BlackJackUpdatedWorking.pdb
+/Users/michelle.wong/FMA/BlackJackUpdatedWorking/BlackJackUpdatedWorking/obj/Debug/netcoreapp3.1/BlackJackUpdatedWorking.csprojAssemblyReference.cache
+/Users/michelle.wong/FMA/BlackJackUpdatedWorking/BlackJackUpdatedWorking/obj/Debug/netcoreapp3.1/BlackJackUpdatedWorking.AssemblyInfoInputs.cache
+/Users/michelle.wong/FMA/BlackJackUpdatedWorking/BlackJackUpdatedWorking/obj/Debug/netcoreapp3.1/BlackJackUpdatedWorking.AssemblyInfo.cs
+/Users/michelle.wong/FMA/BlackJackUpdatedWorking/BlackJackUpdatedWorking/obj/Debug/netcoreapp3.1/BlackJackUpdatedWorking.csproj.CoreCompileInputs.cache
+/Users/michelle.wong/FMA/BlackJackUpdatedWorking/BlackJackUpdatedWorking/obj/Debug/netcoreapp3.1/BlackJackUpdatedWorking.dll
+/Users/michelle.wong/FMA/BlackJackUpdatedWorking/BlackJackUpdatedWorking/obj/Debug/netcoreapp3.1/BlackJackUpdatedWorking.pdb
+/Users/michelle.wong/FMA/BlackJackUpdatedWorking/BlackJackUpdatedWorking/obj/Debug/netcoreapp3.1/BlackJackUpdatedWorking.genruntimeconfig.cache
